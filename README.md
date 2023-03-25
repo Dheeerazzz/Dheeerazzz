@@ -1,6 +1,12 @@
 <div align='center'>
 <img src='https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif'/>
   </div>
+  
+  <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://www.linkedin.com/in/dheeraj-surakasula-764964254/"/>
+  </a>
+</div>
 <!--
 **Dheeerazzz/Dheeerazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
