@@ -6,5 +6,21 @@
   <a href="https://www.linkedin.com/in/dheeraj-surakasula-764964254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+'''yaml
+  name : Dheeraj Surakasula
+  studying at : Vignan's Institute of Information Technology
+  
+  fields_of_interest:
+   [
+     "Web Development",
+     "Data Science",
+     "UI/UX Design",
+     "Machine Learning",
+   ]
+  
+  currently learning : [ "Web Scraping", "DataMining", "Cloud technology" ]
+  hobbies : [ "cinema", "Art" ]
+  '''
+  
+     
 
