@@ -6,9 +6,8 @@
   <a href="https://www.linkedin.com/in/dheeraj-surakasula-764964254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-```yaml
-  More about me
-  *
+```javascript
+  
   name : Dheeraj Surakasula
   studying at : Vignan's Institute of Information Technology
   
@@ -22,7 +21,7 @@
   
   currently learning : [ "Web Scraping", "DataMining", "Cloud technology" ]
   hobbies : [ "cinema", "Art" ]
-  *
+  
   ```
   
      
