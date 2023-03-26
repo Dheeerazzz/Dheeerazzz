@@ -6,7 +6,9 @@
   <a href="https://www.linkedin.com/in/dheeraj-surakasula-764964254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-```javascript
+  
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+```yaml
   
   name : Dheeraj Surakasula
   studying at : Vignan's Institute of Information Technology
