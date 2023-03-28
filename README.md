@@ -28,29 +28,4 @@
   
   ```
   
-     
-### python3 run my_introduction.py
-```python
-class Third_yr_CSE_Student:
-    def __init__(self):
-        self.name = "Satya Sasi Vatsal"
-        self.role = "Django Developer"
-        self.hobbies = ['sleeping','coding','eating']
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-        
-    def my_skills(self):
-        my_skills = { 
-        'languages': ['Python','C++','JavaScript'],
-        'Frameworks' : ['FastAPI', 'Dash', 'Django'],
-        'Python Library' : ['numpy', 'opencv', 'pandas', 'glob', 'requests', 'PIL'],
-        'Data Visualization' : ['Plotly', 'Seaborn', 'Matplotlib'],
-        'Hosting & Cloud' : ['Azure', 'Heroku', 'Vercel', 'Streamlit Cloud'],
-        'Other Skills': ['Git', 'Github','Docker']
-    }
-       return my_skills
     
-me = Third_yr_CSE_Student()
-me.say_hi()
-print(f"Take a Look at my skills {me.my_skills()}")
-```
