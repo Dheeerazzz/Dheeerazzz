@@ -8,7 +8,7 @@
   </a>
   
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-```yaml
+```python
   
   name : Dheeraj Surakasula
   studying at : Vignan's Institute of Information Technology
