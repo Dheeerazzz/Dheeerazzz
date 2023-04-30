@@ -15,7 +15,7 @@
      "Machine Learning",
    ]
   
-  currently learning : [ "Web Scraping", "DataMining", "Cloud technology" ]
+  currently learning : [ "Web Scraping", "DataMining", "Data Analysis" ]
   hobbies : [ "cinema", "Art" ]
   
   ```
