@@ -8,15 +8,16 @@
   studying_at = " Vignan's Institute of Information Technology "
   
   fields_of_interest =
-   {
+   [
      "Web Development",
      "Data Science",
      "UI/UX Design",
      "Machine Learning",
-   }
+     "Animation"
+   ]
   
-  currently learning = { "Web Scraping", "DataMining", "Data Analysis" }
-  hobbies = { "cinema", "Art" }
+  currently learning = [ "Web Scraping", "DataMining", "Data Analysis" ]
+  hobbies = [ "cinema", "Art" ]
   
   ```
   <div align='center'>
