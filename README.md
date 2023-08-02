@@ -19,7 +19,7 @@
   currently learning = [ "Web Scraping", "DataMining", "Data Analysis" ]
   hobbies = [ "cinema", "Art" ]
   
-  ```
+  ``` 
   <div align='center'>
 <img src='https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif'/>
   </div>
