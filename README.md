@@ -17,12 +17,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
 ## 📈 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeerazzz&theme=radical)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dheeerazzz&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=dheeerazzz&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dheeerazzz&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeerazzz&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
