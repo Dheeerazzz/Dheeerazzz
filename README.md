@@ -1,41 +1,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Dheeraj Surakasula</h1>
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" width="400" height="250" alt="GIF">
-## 🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳
 
-🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍
-
-📧 Gmail: **iamdheeraj2614@gmail.com**
-
-### 🧐 More About Me:
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **VIIT**
+          ** 🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳 **
         </li>
         <li>
-          🤝 I’m looking to collaborate on Open Source Projects
+          🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍
         </li>
         <li>
-          🌱 I’m currently learning Django  
-        </li>
-        <li> 
-          👨🏻‍💻 Most of my projects are available on <a style='text-decoration:none;color:red' target='_blank' href="https://github.com/sasivatsal7122?tab=repositories">GitHub</a>
-        </li>
-        <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
-        </li>
-        <li>
-          📫 Feel free to contact me on <a href="https://www.linkedin.com/in/sasi-vatsal-606195215/">LinkedIn</a>
-        </li>
-        <li>
-          🧠 I'm learning Machine Learning and Data Science
-        </li>
-        <li>
-          📝 Checkout my <a href="https://sasivatsal.herokuapp.com/">Page</a>
+          📧 Gmail: **iamdheeraj2614@gmail.com**
         </li>
     </td>
     <td style="border: none;">
