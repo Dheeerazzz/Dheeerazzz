@@ -24,9 +24,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
 ## 📈 My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dheeerazzz&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dheeerazzz&theme=radical&hide_border=true)<br/>
@@ -34,6 +31,10 @@
 
 
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
+  
 ## 🌐 Where to find me
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raaasin) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/raaasin](https://www.linkedin.com/in/dheerajsurakasula/))
