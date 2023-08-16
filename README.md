@@ -19,15 +19,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeerazzz&show_icons=true&locale=en&layout=compact" alt="dheeerazzz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeerazzz&show_icons=true&locale=en&layout=compact" alt="dheeerazzz" /></p></br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-<p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=dheeerazzz&theme=radical)](https://git.io/streak-stats)
-</p>
-<p>
+
 ![Visitor Count](https://profile-counter.glitch.me/{dheeerazzz}/count.svg)
-</p>
+
 <h3>Where to find me</h3>
 <p>
   <a href="[https://github.com/dheeerazzz](https://github.com/Dheeerazzz)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
