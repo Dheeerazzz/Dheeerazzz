@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dheeraj Surakasula</h1>
 
-<table style="border: none;">
+
   <tr style="border: none;">
     <td style="border: none;">
           🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳 </br>
@@ -13,7 +13,7 @@
       <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450vw"/>
     </td>
   </tr>
-</table>
+
 <br><br><br>
 
 
