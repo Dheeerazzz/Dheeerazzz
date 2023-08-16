@@ -1,3 +1,4 @@
+![Visitor Count](https : //profile-counter.glitch.me/{dheeerazzz}/count.svg)
 <h1 align="center">Hi 👋, I'm Dheeraj Surakasula</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
