@@ -4,7 +4,7 @@
           🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳 </br>
           🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍</br>
           📧 Gmail: iamdheeraj2614@gmail.com</br>
-      <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450vw"/>
+      <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200"/>
 <br><br><br>
 
 ## Languages / Frameworks
