@@ -5,9 +5,9 @@
 🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍  
 📧 Gmail: iamdheeraj2614@gmail.com
 
-<p align="right">
+<div align="right">
     <img alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200"/>
-</p>
+</div>
 
 
 ## Languages / Frameworks
