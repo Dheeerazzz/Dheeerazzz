@@ -1,4 +1,5 @@
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
 
 <h1 align="center">Hi 👋, I'm Dheeraj Surakasula</h1>
 <h3 align="center">A passionate Python developer from India</h3>
