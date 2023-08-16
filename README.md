@@ -19,7 +19,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeerazzze&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeerazzz&theme=radical)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
