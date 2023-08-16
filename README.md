@@ -5,16 +5,9 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <ul>
-        <li>
-          ** 🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳 **
-        </li>
-        <li>
+          🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳 
           🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍
-        </li>
-        <li>
           📧 Gmail: **iamdheeraj2614@gmail.com**
-        </li>
     </td>
     <td style="border: none;">
       <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450vw"/>
