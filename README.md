@@ -5,29 +5,11 @@
 
 🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳
 
-🎓 Student by Day, Pythonic Sorcerer by Night 🌙
-
-🔍 Hunting Bugs like a Detective in a Code Noir Mystery 🕵️‍♂️
-
-🤝 On a Quest for Open Source Adventures - Join me if You Dare! 🌟
-
-🐞 Bug Squasher, Feature Magician, and Code Poet Extraordinaire 🧙‍♂️
-
-🌐 Turning Coffee into Code, One Cup at a Time ☕
-
-🚀 Exploring the Final Frontier: Software Galaxy 👾
-
-🧩 Piecing Together Bytes to Create Digital Masterpieces 🖥️
-
 🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍
 
-🔗 Let's Connect: [LinkedIn](https://www.linkedin.com/in/dheeraj-pythonista) | [Twitter](https://twitter.com/DazzlingDheeraj)
+📧 gmail: **iamdheeraj2614@gmail.com**
 
-📧 Contact: dheeraj.pythonista@email.com
 
-🏆 Proud Member of the Open Source Fellowship of Awesomeness 🏅
-
-- 📫 How to reach me **iamdheeraj2614@gmail.com**
 ## Languages / Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
