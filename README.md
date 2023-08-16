@@ -5,9 +5,9 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-          🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳 
-          🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍
-          📧 Gmail: **iamdheeraj2614@gmail.com**
+          🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳 </br>
+          🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍</br>
+          📧 Gmail: iamdheeraj2614@gmail.com</br>
     </td>
     <td style="border: none;">
       <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450vw"/>
