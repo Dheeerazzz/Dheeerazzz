@@ -23,8 +23,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
   
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeerazzz&" alt="dheeerazzz" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dheeerazzz&theme=radical)](https://git.io/streak-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/{dheeerazzz}/count.svg)
 
