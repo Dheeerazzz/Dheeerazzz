@@ -22,11 +22,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeerazzz&show_icons=true&locale=en&layout=compact" alt="dheeerazzz" /></p>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
+<p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=dheeerazzz&theme=radical)](https://git.io/streak-stats)
-
+</p>
+<p>
 ![Visitor Count](https://profile-counter.glitch.me/{dheeerazzz}/count.svg)
-
+</p>
 <h3>Where to find me</h3>
 <p>
   <a href="[https://github.com/dheeerazzz](https://github.com/Dheeerazzz)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
