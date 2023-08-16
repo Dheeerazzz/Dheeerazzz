@@ -5,11 +5,7 @@
           🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍</br>
           📧 Gmail: iamdheeraj2614@gmail.com</br>
       <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450vw"/>
-
 <br><br><br>
-
-
-
 
 ## Languages / Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
