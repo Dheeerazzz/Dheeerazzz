@@ -1,13 +1,17 @@
 
-
-<h1 align="center">Hi 👋, I'm Dheeraj Surakasula</h1>
-<p align="center">
-    🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳 <br>
-    🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍 <br>
-    📧 Gmail: iamdheeraj2614@gmail.com
-</p>
-<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200"/>
-<br><br><br>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <h1>Hi 👋, I'm Dheeraj Surakasula</h1>
+        <p>
+            🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳 <br>
+            🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍 <br>
+            📧 Gmail: iamdheeraj2614@gmail.com
+        </p>
+    </div>
+    <div style="flex: 1; text-align: right;">
+        <img alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200"/>
+    </div>
+</div>
 
 ## Languages / Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
