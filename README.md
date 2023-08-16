@@ -1,9 +1,12 @@
+<div align="center">
 
 # Hi 👋, I'm Dheeraj Surakasula
 
 🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳  
 🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍  
 📧 Gmail: iamdheeraj2614@gmail.com
+
+</div>
 
 <div align="center">
     <img alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500"/>
