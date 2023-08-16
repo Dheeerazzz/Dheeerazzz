@@ -8,6 +8,43 @@
 
 📧 Gmail: **iamdheeraj2614@gmail.com**
 
+### 🧐 More About Me:
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <ul>
+        <li>
+          🔭 I’m currently studying at **VIIT**
+        </li>
+        <li>
+          🤝 I’m looking to collaborate on Open Source Projects
+        </li>
+        <li>
+          🌱 I’m currently learning Django  
+        </li>
+        <li> 
+          👨🏻‍💻 Most of my projects are available on <a style='text-decoration:none;color:red' target='_blank' href="https://github.com/sasivatsal7122?tab=repositories">GitHub</a>
+        </li>
+        <li>
+          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+        </li>
+        <li>
+          📫 Feel free to contact me on <a href="https://www.linkedin.com/in/sasi-vatsal-606195215/">LinkedIn</a>
+        </li>
+        <li>
+          🧠 I'm learning Machine Learning and Data Science
+        </li>
+        <li>
+          📝 Checkout my <a href="https://sasivatsal.herokuapp.com/">Page</a>
+        </li>
+    </td>
+    <td style="border: none;">
+      <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450vw"/>
+    </td>
+  </tr>
+</table>
+<br><br><br>
+
 
 
 
