@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Dheeraj Surakasula</h1>
-
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" width="400" height="250" alt="GIF">
 ## 🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳
 
 🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍
 
 📧 Gmail: **iamdheeraj2614@gmail.com**
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" width="400" height="250" alt="GIF">
+
 
 
 ## Languages / Frameworks
