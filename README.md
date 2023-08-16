@@ -27,11 +27,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/{dheeerazzz}/count.svg)
 
 <h3>Where to find me</h3>
-<p>
-  <a href="[https://github.com/dheeerazzz](https://github.com/Dheeerazzz)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
-  <a href="[https://twitter.com/dheerajskla](https://twitter.com/DheerajSKLA?t=LMmNB5PSiSgQHk-eQYjfXg&s=08)" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/dheerajsurakasula/)" target="_blank"><img alt="LinkedIn"
-  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raaasin) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/raaasin](https://www.linkedin.com/in/dheerajsurakasula/))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nanoisbek](https://twitter.com/DheerajSKLA?t=LMmNB5PSiSgQHk-eQYjfXg&s=08))
+
+
   
-</p>
+
 
