@@ -8,7 +8,7 @@
 
 📧 Gmail: **iamdheeraj2614@gmail.com**
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" width="500" height="400" alt="GIF">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" width="400" height="250" alt="GIF">
 
 
 ## Languages / Frameworks
