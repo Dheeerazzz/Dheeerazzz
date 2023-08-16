@@ -21,7 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeerazzz&show_icons=true&locale=en&layout=compact" alt="dheeerazzz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&locale=en" alt="dheeerazzz" /></p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dheeerazzz&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeerazzz&" alt="dheeerazzz" /></p>
 
