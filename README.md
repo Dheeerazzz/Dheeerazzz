@@ -34,7 +34,7 @@
 ## 📈 My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dheeerazzz&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dheeerazzz&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeerazzz&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=dheeerazzz)
 
 
 
