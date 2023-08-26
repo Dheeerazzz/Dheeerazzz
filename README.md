@@ -2,8 +2,8 @@
 
 # Hi 👋, I'm Dheeraj Surakasula
 </div>
-🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳  
-🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍  
+🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳  </br>
+🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍  </br>
 📧 Gmail: iamdheeraj2614@gmail.com
 
 
