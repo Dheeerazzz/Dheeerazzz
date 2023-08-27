@@ -13,7 +13,7 @@
 </div>
 
 
-## Languages / Frameworks
+## Languages / Frameworks :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,18 +31,18 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 My GitHub Stats
+## 📈 My GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=dheeerazzz&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dheeerazzz&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=dheeerazzz&theme=radical&hide_border=true)
 
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
   
-## 🌐 Where to find me
+## 🌐 Where to find me :
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajsurakasula/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dheeerazzz?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DheerajSKLA?t=LMmNB5PSiSgQHk-eQYjfXg&s=08)
