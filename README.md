@@ -11,7 +11,6 @@
 <div align="center">
     <img alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500"/>
 </div>
-  
 
 ## Languages / Frameworks :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -49,8 +48,6 @@
   [![CodeChef](	https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dheeerazzz)
 
 ![Visitor Count](https://profile-counter.glitch.me/{dheeerazzz}/count.svg)
-
-
   
 
 
