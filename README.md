@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Dheeraj Surakasula 
 </div>
-🐍 Python Enthusiast from the Incredible Land of Spices 🇮🇳  </br>
+🐍 Python Enthusiast from India  </br>
 🌈 Embracing Collaboration, Igniting Innovation – Let's Code and Conquer! 💻🌍 </br>
 📧 Gmail: iamdheeraj2614@gmail.com   
 
@@ -29,16 +29,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 📈 My GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=dheeerazzz&theme=radical&hide_border=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dheeerazzz&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=dheeerazzz&theme=radical&hide_border=true)
-
-
-
-## 🏆 GitHub Trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=dheeerazzz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
   
 ## 🌐 Where to find me :
