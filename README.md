@@ -7,6 +7,7 @@ I am proficient in **automation**, **web scraping**, **data analysis**, and **ma
 [![Check out Dheeerazzz's profile on Stardev.io](https://stardev.io/developers/Dheeerazzz/badge/languages/locality.svg)](https://stardev.io/developers/Dheeerazzz)
 
 [Linkedin](https://www.linkedin.com/in/dheerajsurakasula/)
+[Portfolio](https://peerlist.io/dheerajskla)
 
 👁️ **Visitor Count**:
 ![Visitor Count](https://profile-counter.glitch.me/{dheeerazzz}/count.svg)
