@@ -9,5 +9,4 @@ I am proficient in **automation**, **web scraping**, **data analysis**, and **ma
 [Linkedin](https://www.linkedin.com/in/dheerajsurakasula/)
 [Portfolio](https://peerlist.io/dheerajskla)
 
-👁️ **Visitor Count**:
 ![Visitor Count](https://profile-counter.glitch.me/{dheeerazzz}/count.svg)
