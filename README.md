@@ -30,7 +30,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  
+  [![Check out Dheeerazzz's profile on stardev.io](https://stardev.io/developers/Dheeerazzz/badge/languages/locality.svg)](https://stardev.io/developers/Dheeerazzz)
 ## 🌐 Where to find me :
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajsurakasula/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dheeerazzz?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
